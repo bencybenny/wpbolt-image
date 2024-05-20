@@ -1,0 +1,5 @@
+proj_name = "wpbolt"
+proj_env = "dev"
+int_type = "t2.micro"
+user = "ec2-user"
+ami = "ami-0cc9838aa7ab1dce7"
